@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background:url(img/ubuntu.jpg) no-repeat;
+}
+
+table{
+    width: 100%;
+    height: 100%;
+    border: 10px #000000 solid; /*dotted,dashed,double,groove,ridge,solid,inset,outset*/
+    text-align: center;
+    border-spacing: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#menu{
+    background:#252525;
+    color: #ffffff;
+    font-weight: 900;
+    
+
+}
+
+td{
+    border: 2px #000 solid;
+    padding: 5px;
+
+}
+
+.Rodapé{
+    color: #ffffff;
+    font-weight: 900;
+    background-color: #252525;
+}
